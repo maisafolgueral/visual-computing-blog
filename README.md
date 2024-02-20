@@ -7,4 +7,4 @@
 
 Repositório para as atividades da matéria de Computação Visual, Mackenzie.
 
-Link da wiki: https://github.com/maisafolgueral/visual-computing-blog/wiki/Blog
+Link da wiki: https://github.com/maisafolgueral/visual-computing-blog/wiki
