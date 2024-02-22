@@ -1,9 +1,10 @@
 # Blog - Computação Visual
 
-|NOME                           |TIA                 |
+|NOME                           |RA                 |
 |-------------------------------|--------------------|
 |Filipe Costa Pereira           |32106521            |
-|Maisa Folgueral                |32121385            |
+|Maisa Folgueral                |10388673           |
+|Matheus Farias                 |32138271            |
 
 Repositório para as atividades da matéria de Computação Visual, Mackenzie.
 
