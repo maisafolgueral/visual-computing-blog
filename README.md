@@ -2,7 +2,7 @@
 
 |NOME                           |RA                 |
 |-------------------------------|--------------------|
-|Filipe Costa Pereira           |32106521            |
+|Filipe Costa Pereira           |10387977           |
 |Maisa Folgueral                |10388673           |
 |Matheus Farias                 |10389458            |
 
